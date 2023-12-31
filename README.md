@@ -1,7 +1,8 @@
 # Hi, I'm Stefano :wave:
-I'm an aspiring self-taught Web Developer based in Italy, interested in building new  
-and amazing things on the Web. As I continue my journey I'm looking   
-for new opportunities in the Tech Industry.  
+I'm an aspiring self-taught Full Stack Web Developer based in Italy, interested   
+in building new and amazing things on the Web. As I continue my journey  
+I'm looking for new opportunities in the Tech Industry.
+
 
 ## My Skills :hammer_and_wrench:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
