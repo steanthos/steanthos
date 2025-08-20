@@ -1,64 +1,62 @@
-# Hi, I'm Stefano :wave:
-I'm an aspiring self-taught Full Stack Web Developer based in Italy, interested   
-in building new and amazing things on the Web. As I continue my journey  
-I'm looking for new opportunities in the Tech Industry.
+# Hi, I'm Stefano 👋
 
+.NET Developer passionate about building robust backend solutions and scalable applications. 
+Currently specialized in the Microsoft tech stack with a focus on best practices.
+Online content creator and teacher of C# and .NET, sharing knowledge through educational resources.
 
-## My Skills :hammer_and_wrench:
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-EAEEF2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0969DA?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+## 🚀 Tech Stack
+
+**Backend & Frameworks**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+
+**Database & Tools**
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+**Foundation Skills**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-_Fun tidbits: My side interests are Sports Training (I have an MD in Sports  
-Science and was a former Athletics Coach) and Opera Singing._
+## 🎯 Currently Mastering
 
-## Learning Resources :orange_book:
-- [Codecademy](https://www.codecademy.com/)
-- [Learn Enough To Be Dangerous](https://www.learnenough.com/)
-- [Harvard's CS 50](https://www.youtube.com/watch?v=LfaMVlDaQ24&t=41157s)
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [Udemy](https://www.udemy.com/)
-- The World Wide Web
+- **Advanced Entity Framework**: Complex queries, performance optimization, migrations
+- **Architecture**: SOLID principles, dependency injection, design patterns  
+- **SQL Server**: Stored procedures, indexing strategies, query optimization
+- **API Development**: RESTful and SOAP services, authentication, documentation
 
-## What I'm currently learning :computer:
-- Diving into React and its amazingness
-- Learning some C, especially memory management
-- Exploring Typescript
+## 💼 Professional Focus
 
-## Languages :world_map:
+Building scalable backend solutions with emphasis on:
+- Code quality and maintainability
+- Database design and optimization  
+- Performance and security best practices
+- Software architecture
 
-| Language   | Level         |
-| ---------- | ------------- |
-| English    | C1            |
-| Italian    | Mother Tongue |
-| Spanish    | A3            |
+## 🌍 Languages
 
-## Contact Me :mailbox:
+| Language | Level |
+|----------|--------|
+| Italian | Native |
+| English | C1 |
+| Spanish | A2 |
 
-**For any inquiries and job opportunities feel free to contact me!**
+## 📫 Let's Connect
+
+Looking for opportunities to grow as a .NET developer and contribute to meaningful projects.
 
 <a href="mailto:steanthos@gmail.com">
-    <img height="32" align="left" alt="Mail" src="/gmail.png" />
+    <img height="32" align="left" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/stefano-antonini">
-    <img height="32" align="left" alt="LinkedIn" src="linkedin.png" />
+    <img height="32" align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://paypal.me/SAntonini7">
-    <img height="32" align="left" alt="Buy Me a Coffee" src="paypal.png" />
-</a>  
+<br clear="left"/>
 
-
-  
+---
+*Background: Sports Science graduate and former athletics coach who discovered a passion for software development. I transitioned career looking for a better lifestyle.*
