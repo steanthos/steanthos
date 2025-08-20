@@ -1,8 +1,6 @@
 # Hi, I'm Stefano 👋
 
-.NET Developer passionate about building robust backend solutions and scalable applications. 
-Currently specialized in the Microsoft tech stack with a focus on best practices.
-Online content creator and teacher of C# and .NET, sharing knowledge through educational resources.
+Web Developer and Teacher, focused on Software and content creation
 
 ## 🚀 Tech Stack
 
